@@ -1,0 +1,15 @@
+
+
+create a new environment -
+python3 -m venv summary
+source summary/bin/activate
+
+
+downloads
+download pip install PyMuPDF in terminal
+pip install nltk
+pip install transformers
+pip install torch
+pip install langchain
+pip install -U langchain-community
+
